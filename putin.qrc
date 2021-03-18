@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resurces">
+        <file>putin.png</file>
+        <file>naval.png</file>
+    </qresource>
+</RCC>
