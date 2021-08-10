@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe game. But involve Putin and Navalny.
+Tic Tac Toe game with Qt. And includes Putin and Navalny.
